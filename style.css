@@ -1,0 +1,13 @@
+img{
+    width: 300px;
+}
+#principal{
+  justify-content: center;
+}
+.form{
+    display: flex;
+    width: 200px;
+    height: 50px;
+    flex-direction: column;
+    border-bottom: 10px;
+}
