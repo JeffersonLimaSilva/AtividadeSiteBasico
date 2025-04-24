@@ -1,5 +1,8 @@
+body{
+  background-color: deeppink;
+}
 img{
-    width: 300px;
+  width: 300px;
 }
 #principal{
   justify-content: center;
